@@ -29,11 +29,11 @@ Status   : Always learning. Always shipping.
 
 <br/>
 
-- 🔭 &nbsp;Currently building **full-stack web & mobile applications**
-- 🛡️ &nbsp;Exploring **offensive security & penetration testing**
-- ☁️ &nbsp;Designing **cloud-native DevOps pipelines**
-- 🌱 &nbsp;Deepening expertise in **system architecture & low-level security**
-- ⚡ &nbsp;Fun fact: I break things to understand how to build them better
+-  &nbsp;Currently building **full-stack web & mobile applications**
+-  &nbsp;Exploring **offensive security & penetration testing**
+-  &nbsp;Designing **cloud-native DevOps pipelines**
+-  &nbsp;Deepening expertise in **system architecture & low-level security**
+-  &nbsp;Fun fact: I break things to understand how to build them better
 
 <br clear="right"/>
 
